@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'lstm'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D4B509B6796F4B4B8ADB0354C16C7462 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_77EB76C0DDA64AC0A8DCC3333C614CCC }}
